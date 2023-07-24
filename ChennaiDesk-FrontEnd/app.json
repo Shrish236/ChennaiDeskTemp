@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "scheme": "myapp",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "ChennaiDesk",
+    "slug": "ChennaiDesk"
+  },
+  "main": "index.js"
+}
